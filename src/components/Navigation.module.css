@@ -1,0 +1,85 @@
+.navigationAll {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: space-between;
+  margin-top: 5px;
+}
+
+.logoBox {
+  display: flex;
+  margin: 0;
+}
+
+.logoBox img {
+  width: 34.4px;
+  height: 34.4px;
+  margin-top: 0.8rem;
+  margin-right: 0.5rem;
+}
+
+.logoBox h3 {
+  color: #46a358;
+}
+
+.menuBox {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menuBoxIn {
+  border-bottom: 3px solid white;
+}
+
+.menuBox h3 {
+  font-weight: 300;
+  border-bottom: 3px solid white;
+  padding-bottom: 1.7rem;
+  margin-bottom: -1.2rem;
+}
+
+.menuBox h3:hover {
+  font-weight: 400;
+  border-bottom: 3px solid #46a358;
+  transition: 1s;
+}
+
+.serachBox {
+  display: flex;
+  justify-content: end;
+  gap: 2rem;
+}
+
+.serachBox img {
+  width: 20px;
+  height: 20px;
+  margin-top: 1.2rem;
+}
+
+.serachBox button {
+  padding: 2px 1rem 0;
+  margin: 1rem 2rem 1.2rem;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  background-color: #46a358;
+  display: flex;
+  height: 2rem;
+}
+
+.serachBox button p {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.iconEnter {
+  font-size: 1.2rem;
+  padding-right: 0.5rem;
+  padding-top: 5px;
+}
+
+.line {
+  position: absolute;
+  top: 80;
+  width: 86%;
+  background-color: #ddeee0;
+}
