@@ -1,11 +1,14 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# GreenShop
 
-# Math magicians
+# ScreenShot
+
+<img width="1792" alt="Screen Shot 2023-01-14 at 10 43 02 AM" src="https://user-images.githubusercontent.com/91022355/212457829-1591adde-e0d6-4662-a3b8-f33ff86d0bb9.png">
 
 ## Built With and Used Technologies
 
 - JavaScript (ES6 syntax and modules)
 - React
+- Redux(ToolKit)
 - Gitflow
 
 ## Getting Started
@@ -20,7 +23,7 @@ To get a copy of this project running on your local computer, do the followings:
 ### Setup
 
 - Install _VSCode_ ([link](https://code.visualstudio.com/download))
-- Clone this project repository on your local computer. ([link](https://github.com/jahongiry/LeaderBoard.git))
+- Clone this project repository on your local computer. ([link](https://github.com/jahongiry/GreenShop-React_Redux.git))
 - Open the project directory with _VSCode_
 
 ### Install
@@ -40,15 +43,6 @@ Open _Terminal/Shell_ inside your _VSCode_ and run
 
 `npm start`
 
-- For _style_ tests, run
-  ```
-    npm run lint:style
-  ```
-- For _eslint_ tests, run
-  ```
-    npm run lint:es
-  ```
-
 ## Authors
 
 👤 Jahongir Yusupov
@@ -67,5 +61,3 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Fellow Micronauts
