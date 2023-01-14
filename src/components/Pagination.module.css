@@ -1,0 +1,19 @@
+.pagination {
+  margin: 2rem 0;
+  text-align: right;
+}
+
+.pagination button {
+  border-radius: 5px;
+  padding: 0.5rem 0.8rem;
+  margin-left: 0.7rem;
+  border: 1px solid #e8e8e8;
+  background-color: white;
+}
+
+.pagination button:hover {
+  transition: 1s;
+  border: 1px solid #46a358;
+  background-color: #46a358;
+  color: white;
+}

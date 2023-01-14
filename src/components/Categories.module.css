@@ -1,0 +1,117 @@
+.CategoryBox {
+  margin-top: 4rem;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+
+.CategorySmallBoxes {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2rem;
+}
+
+.CategoryNames {
+  display: flex;
+  gap: 2rem;
+}
+
+.CategoryNames p {
+  border-bottom: 1px solid white;
+  padding-bottom: 0.5rem;
+}
+
+.CategoryNames p:hover {
+  transition: 0.6s;
+  color: #46a358;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #46a358;
+}
+
+.CategorySort {
+  justify-self: end;
+}
+
+.nameCategory {
+  margin-left: 1rem;
+}
+
+.nameCategory :hover {
+  font-weight: 500;
+  color: #46a358;
+  transition: 0.6s;
+}
+
+.nameCategory span {
+  margin-left: 3rem;
+}
+
+.faded1 {
+  margin-bottom: 0.55rem;
+  width: 25%;
+}
+
+.dot {
+  margin-left: 1rem;
+}
+
+.faded {
+  width: 10%;
+  margin-bottom: 0.57rem;
+}
+
+.priceRange span {
+  font-weight: bold;
+  color: #46a358;
+}
+.priceRange {
+  margin-left: 1rem;
+}
+
+.sideBar {
+  background-color: #fbfbfb;
+  margin-right: 2rem;
+  padding: 0;
+}
+
+.sideBar button {
+  margin-left: 1rem;
+  font-weight: bold;
+  border: none;
+  font-size: 1rem;
+  padding: 0.5rem 1.5rem;
+  border-radius: 5px;
+  background-color: #46a358;
+  color: white;
+}
+
+.sideBar h4 {
+  margin-top: 4rem;
+}
+
+.sizes p {
+  margin-left: 1rem;
+}
+
+.sideImage1 {
+  margin-top: 4.3rem;
+  position: relative;
+  width: 100%;
+}
+
+.sideImage2 {
+  position: absolute;
+  margin-left: -20rem;
+  margin-top: 4.3rem;
+}
+
+.sideImage3 {
+  position: absolute;
+  margin-left: -17rem;
+  margin-top: 12rem;
+}
+
+.sideImage4 {
+  position: absolute;
+  margin-top: 14rem;
+  margin-left: -22rem;
+}

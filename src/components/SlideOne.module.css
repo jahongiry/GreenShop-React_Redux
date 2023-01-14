@@ -1,0 +1,43 @@
+.SlideOneBox {
+  background-color: #fafafa !important;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.boxOne {
+  padding-left: 5rem;
+  padding-top: 2rem;
+}
+
+.boxOne h6 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.boxOne p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.boxOne button {
+  margin-top: 2.2rem;
+  background-color: #46a358;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 0.7rem 1.2rem;
+  font-size: 16px;
+}
+
+.boxTwo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.imgOne {
+  margin-top: 22rem;
+  margin-left: 15rem;
+  margin-right: -10rem;
+}

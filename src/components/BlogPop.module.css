@@ -1,0 +1,34 @@
+.popUp {
+  display: flex;
+  gap: 3rem;
+  height: 60vh;
+  width: 100vh;
+  margin: 5rem 20rem 10rem 20rem;
+  position: fixed;
+  z-index: 10;
+  background-color: #fbfbfb;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  background-color: #ebf3ec;
+  padding: 3rem;
+}
+
+.popUp img {
+  margin-top: 3rem;
+  width: 25rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.popUp h4 {
+  color: #46a358;
+}
+
+.description {
+  margin-top: 1.3rem;
+  line-height: 2rem;
+}
+
+.close {
+  font-size: 2rem;
+  margin-left: 30rem;
+  margin-top: -2rem;
+}

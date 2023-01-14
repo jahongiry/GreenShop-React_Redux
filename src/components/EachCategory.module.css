@@ -1,0 +1,47 @@
+.eachAll {
+  border-top: 1px solid white;
+  position: relative;
+}
+
+.imageAll {
+  border: 1px solid #dcdcdc;
+}
+
+.eachAll:hover {
+  transition: 0.6s;
+  border-top: 1px solid #46a358;
+}
+
+.eachAll:hover .icons {
+  opacity: 1;
+}
+
+.eachAll h4 {
+  margin-top: -0.5rem;
+  color: #46a358;
+}
+.plantImageBox {
+  text-align: center;
+}
+
+.plantImageBox img {
+  width: 88%;
+}
+
+.icons {
+  opacity: 0;
+  position: absolute;
+  margin-top: -4rem;
+  margin-left: 8.5rem;
+  font-size: 1.5rem;
+  display: flex;
+  gap: 1.4rem;
+}
+
+.icons :hover {
+  color: #46a358;
+}
+
+.liked ion-icon {
+  fill: #46a358;
+}

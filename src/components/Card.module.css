@@ -1,0 +1,46 @@
+.cardBox {
+  margin-top: 8rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.boxOne {
+  display: flex;
+  text-align: end;
+  justify-content: space-between;
+  background-color: #fbfbfb;
+}
+.boxOne img {
+  width: 18rem;
+  margin-left: 2rem;
+  margin-top: -3rem;
+  overflow: visible;
+}
+
+.boxOne h3 {
+  margin-top: 2rem;
+  margin-right: 2rem;
+}
+
+.boxOne p {
+  color: rgb(114, 114, 114);
+  line-height: 2rem;
+  align-self: flex-end;
+  margin-right: 2rem;
+}
+
+.boxOne button {
+  margin-right: 2rem;
+  padding: 0.5rem 0.8rem;
+  border-radius: 5px;
+  transition: 1s;
+  border: 1px solid #46a358;
+  background-color: #46a358;
+  color: white;
+}
+
+.boxOne button a {
+  text-decoration: none;
+  color: white;
+}

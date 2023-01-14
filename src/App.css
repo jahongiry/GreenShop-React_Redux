@@ -1,6 +1,7 @@
 .App {
   margin: 0 109px;
   padding: 0;
+  position: relative;
 }
 
 @media (prefers-reduced-motion: no-preference) {

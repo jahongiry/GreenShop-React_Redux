@@ -1,0 +1,124 @@
+.footer {
+  margin-top: 7rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1.5fr;
+  padding-top: 1rem;
+  background-color: #fbfbfb;
+  border-bottom: 1.5px solid #46a35943;
+}
+
+.boxOne {
+  border-right: 1px solid rgb(233, 242, 235);
+  padding-right: 2rem;
+  padding-left: 2rem;
+  margin-bottom: 2rem;
+}
+
+.boxLast {
+  padding-top: 1rem;
+  padding-left: 2rem;
+}
+
+.boxLast p {
+  font-weight: 400px;
+  font-size: 14px;
+  line-height: 30px;
+}
+
+.boxThree {
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+.boxOne p {
+  line-height: 22px;
+  font-size: 14px;
+  padding-right: 1rem;
+}
+
+.potIcon {
+  position: absolute;
+  margin-left: -4rem;
+}
+
+.round {
+  position: relative;
+}
+
+.form {
+  display: flex;
+}
+
+.form input {
+  width: 12rem;
+  border: none;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  padding: 0.6rem;
+}
+
+.form input ::placeholder {
+  font-size: 14px;
+  color: #acacac;
+}
+
+.form button {
+  border: none;
+  background-color: #46a358;
+  color: white;
+  font-weight: 700;
+  font-size: 18px;
+  padding: 0.2rem 1rem;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.logoContainer {
+  padding: 1rem;
+  background-color: #46a35922;
+  color: #46a358;
+  display: flex;
+}
+
+.logoContainer img {
+  padding-left: 0.5rem;
+  padding-right: 0.2rem;
+  padding-top: 1rem;
+  width: 10%;
+  height: 50%;
+}
+
+.locationContainer {
+  font-size: 14px;
+  background-color: #46a35922;
+  display: flex;
+  line-height: 22px;
+  padding-top: 1rem;
+}
+
+.locIcon {
+  font-size: 1.4rem;
+  margin-top: 1.4rem;
+  margin-right: 0.5rem;
+  color: #46a358;
+}
+
+.email,
+.phone {
+  margin-top: 1.4rem;
+}
+
+.social button {
+  margin-right: 0.5rem;
+  background-color: white;
+  border: 1px solid #46a35978;
+  border-radius: 4px;
+  padding: 6px 10px 3px 10px;
+}
+
+.social button img {
+  width: 0.8rem;
+  height: 1rem;
+}
