@@ -1,5 +1,9 @@
 # GreenShop
 
+# Live Version
+
+https://63c2432224cc8a4280dff759--starlit-centaur-f5de8f.netlify.app/
+
 # ScreenShot
 
 <img width="1792" alt="Screen Shot 2023-01-14 at 10 43 02 AM" src="https://user-images.githubusercontent.com/91022355/212457829-1591adde-e0d6-4662-a3b8-f33ff86d0bb9.png">
