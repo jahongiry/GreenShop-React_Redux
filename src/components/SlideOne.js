@@ -8,7 +8,7 @@ function SlideOne() {
   return (
     <div id='home' className={classes.SlideOneBox}>
       <div className={classes.boxOne}>
-        <h6>WELCOME TO GREENSHOP</h6>
+        <h6>WELCOME TO “Lovely Plants and Garden Centre (LPGC)</h6>
         <img src={lets} alt='motivational sentences' />
         <p>
           We are an online plant shop offering a wide range of cheap and trendy
