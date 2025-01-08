@@ -18,7 +18,7 @@ function Card() {
             range of cheap and trendy platns.
           </p>
           <button>
-            <a href='https://en.wikipedia.org/wiki/Cactus' target='_blank'>
+            <a href='https://en.wikipedia.org/wiki/Cactus' target='_blank' rel="noreferrer">
               FIND MORE <ion-icon name='arrow-forward-outline'></ion-icon>
             </a>
           </button>
@@ -36,7 +36,7 @@ function Card() {
             range of cheap and trendy platns.
           </p>
           <button>
-            <a href='https://en.wikipedia.org/wiki/Cactus' target='_blank'>
+            <a href='https://en.wikipedia.org/wiki/Cactus' target='_blank' rel="noreferrer">
               FIND MORE <ion-icon name='arrow-forward-outline'></ion-icon>
             </a>
           </button>
