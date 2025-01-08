@@ -55,7 +55,7 @@ function Footer() {
       </div>
       <div className={classes.logoContainer}>
         <img src={logo} alt='logo' />
-        <h2>GREENSHOP</h2>
+        <h2>LPGC greenshop</h2>
       </div>
 
       <div className={classes.locationContainer}>
@@ -63,7 +63,7 @@ function Footer() {
           <ion-icon name='location-outline'></ion-icon>
         </div>
         <p>
-          70 West Buckingham Ave. <br /> Farmingdale, NY 11735
+          70 West Buckingham Ave. <br /> Bankstown, NSW 2200
         </p>
       </div>
 
@@ -71,14 +71,14 @@ function Footer() {
         <div className={classes.locIcon}>
           <ion-icon name='mail-outline'></ion-icon>
         </div>
-        <p className={classes.email}>contact@greenshop.com</p>
+        <p className={classes.email}>lpgc@greenshop.com</p>
       </div>
 
       <div className={classes.locationContainer}>
         <div className={classes.locIcon}>
           <ion-icon name='call-outline'></ion-icon>
         </div>
-        <p className={classes.phone}>+88 01911 717 490</p>
+        <p className={classes.phone}>+91 01911 717 490</p>
       </div>
 
       <div className={classes.boxLast}>
