@@ -13,7 +13,7 @@ const Navigation = () => {
       <div className={classes.navigationAll}>
         <div className={classes.logoBox}>
           <img src={logo} alt='green logo' />
-          <h3>GREENSHOP</h3>
+          <h3>LPGC ONLINE SHOP</h3>
         </div>
         <div className={classes.menuBox}>
           <div
